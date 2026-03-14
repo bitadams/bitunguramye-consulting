@@ -1,0 +1,46 @@
+---
+title: "Services"
+---
+
+## Data Cleaning & Analysis
+
+-   Cleaning and validating messy datasets\
+-   Recoding and transforming variables\
+-   Preparing analysis-ready datasets\
+-   Fully documented R or SAS scripts
+
+**Price:** \$500–\$900 per project
+
+------------------------------------------------------------------------
+
+## Advanced Statistical Modeling ( The list is not exhaustive)
+
+-   Anova, ChiSquare,Logistic, Poisson, and Cox regression
+-   Survival analysis & RMST
+-   Model diagnostics and validation
+-   Bayesian Models
+-   Multiple Imputations
+-   Anova
+-   Publication-ready tables
+
+**Price:** \$1200–\$2500 per project
+
+------------------------------------------------------------------------
+
+## GIS Mapping & Spatial Analysis
+
+-   Choropleth and thematic maps\
+-   Disease or exposure mapping\
+-   Spatial risk modeling\
+-   Full analytical report
+
+**Price:** \$2000–\$5000 per project
+
+## **Basic Website Creation & Student Admissions Applications**
+
+-   **Create responsive websites** for individuals, small businesses, or academic purposes\
+-   **Student admissions** application platforms for universities or institutions\
+-   Custom forms, secure data collection, and user-friendly interfaces\
+-   Deployment ready for global access
+
+**Price:** **Customized per project (contact for quote)**

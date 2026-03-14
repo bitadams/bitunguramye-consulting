@@ -1,0 +1,25 @@
+# Welcome to Bitunguramye Consulting
+
+We provide **advanced statistical modeling, data cleaning, survival analysis, GIS mapping, and academic support** for public health, healthcare research, and education projects.
+
+With our epidemiology and medical background, we turn messy health data into **publication-ready insights**, and also help with **basic websites and school applications**.
+
+---
+
+## Why Work With Us?
+
+- Expertise in **R, SAS, and GIS**
+- Publications and research experience
+- Fast turnaround and professional service
+- Assistance with **school applications and document preparation**
+- Ability to create **basic websites for personal or business use**
+
+---
+
+## What We Can Do
+
+- Advanced statistical modeling & data analysis  
+- Data cleaning & preparation  
+- GIS mapping & spatial analysis  
+- **Basic websites** (personal portfolios, small business sites)  
+- **School applications** (guidance, editing, and submissions)

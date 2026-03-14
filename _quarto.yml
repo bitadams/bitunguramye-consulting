@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Bitunguramye Consulting"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - text: "Services"
+        href: services.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Careers"
+        href: careers.qmd
+  page-footer:
+    left: "© 2026 Bitunguramye Consulting"
+    right: "Professional Statistical & GIS Consulting Services"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
